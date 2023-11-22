@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\Personal\\Cursos\\Aprendizaje Tecnologías\\.Net\\WebAPICrud_NET7\\WebAPIProducto\\WebAPIProducto.csproj": {}
+    "D:\\Documentos\\Personal\\Cursos\\Aprendizaje Tecnologías\\.Net\\WebAPICrud_NET7\\WebApiProducto\\WebAPIProducto.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\Personal\\Cursos\\Aprendizaje Tecnologías\\.Net\\WebAPICrud_NET7\\WebAPIProducto\\WebAPIProducto.csproj": {
+    "D:\\Documentos\\Personal\\Cursos\\Aprendizaje Tecnologías\\.Net\\WebAPICrud_NET7\\WebApiProducto\\WebAPIProducto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Personal\\Cursos\\Aprendizaje Tecnologías\\.Net\\WebAPICrud_NET7\\WebAPIProducto\\WebAPIProducto.csproj",
+        "projectUniqueName": "D:\\Documentos\\Personal\\Cursos\\Aprendizaje Tecnologías\\.Net\\WebAPICrud_NET7\\WebApiProducto\\WebAPIProducto.csproj",
         "projectName": "WebAPIProducto",
-        "projectPath": "D:\\Documentos\\Personal\\Cursos\\Aprendizaje Tecnologías\\.Net\\WebAPICrud_NET7\\WebAPIProducto\\WebAPIProducto.csproj",
+        "projectPath": "D:\\Documentos\\Personal\\Cursos\\Aprendizaje Tecnologías\\.Net\\WebAPICrud_NET7\\WebApiProducto\\WebAPIProducto.csproj",
         "packagesPath": "C:\\Users\\caler\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Personal\\Cursos\\Aprendizaje Tecnologías\\.Net\\WebAPICrud_NET7\\WebAPIProducto\\obj\\",
+        "outputPath": "D:\\Documentos\\Personal\\Cursos\\Aprendizaje Tecnologías\\.Net\\WebAPICrud_NET7\\WebApiProducto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

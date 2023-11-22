@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bzhkOzIZ9NdhSPOGMau+VV58QDGf1wIt8faGX/k8HkwVmKPMM4ttXWM4UOrCsCCqYfpCzhhKxB+iJwydZe1EOg==",
+  "dgSpecHash": "IU+qRgZluH7LBcTZdeMOlksso1dKCGeyI8iggbonN7N75hisLPMzm8UtjzpTgPdPtZAgOO76FqOzsHoNaZ1khQ==",
   "success": true,
-  "projectFilePath": "D:\\Documentos\\Personal\\Cursos\\Aprendizaje Tecnologías\\.Net\\WebAPICrud_NET7\\WebAPIProducto\\WebAPIProducto.csproj",
+  "projectFilePath": "D:\\Documentos\\Personal\\Cursos\\Aprendizaje Tecnologías\\.Net\\WebAPICrud_NET7\\WebApiProducto\\WebAPIProducto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\caler\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\caler\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
